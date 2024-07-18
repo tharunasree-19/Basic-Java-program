@@ -1,0 +1,9 @@
+public class Practice{
+    public static void main(String args[]){
+        String name = "Tharuna Sree Golla";
+        int age = 18;
+        System.out.println("My Name is : " + name);
+        System.out.println("My age is : " + age);
+        
+    }
+}
